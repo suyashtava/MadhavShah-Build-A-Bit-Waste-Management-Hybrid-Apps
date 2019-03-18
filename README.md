@@ -1,4 +1,4 @@
-# MadhavShah-Build-A-Bit-Waste-Management-Hybrid-Apps
+# Build-A-Bit-Waste-Management-Hybrid-Apps
 We worked on the problem statement of company i.e. Urban Waste.
 There will be two different applications for both urban people and garbage collectors.Both attach to the same database on AWS.
 Application of user contains, Category,Date,Time ,amount, category of waste and picture of the waste. After filling this information only then they can submit and info will go to garbage collector, with clients name and his photo.
